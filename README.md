@@ -1,21 +1,19 @@
-# Project Name
+.# Hello! :3
 
-Welcome to the **Project Name** repository!
+You probably saw me on Pony Town. Please respect my availability status:
 
-## Description
+- ⛔ **Busy**: Doing stuff IRL, can't chat right now. This includes making ponies, texting, and other activities.
+- 🌙 **Away**: Away from phone/computer. Feel free to whisper if you have a question.
+- 🟢 **Active**: Available to play, but might sometimes be AFK (Away From Keyboard).
 
-Briefly describe what your project does and its purpose.
+**!!IMPORTANT!!** Please click on my profile in Pony Town to see if I am:
+- Drawing 🖌️
+- Making something
+- Eating 🍴
+- Watching videos
+- And more!
 
-## Script Example
+Feel free to whisper if you have any questions!
 
-Here's an example script for using **Project Name**:
+Thank you for checking me out!! :33
 
-```python
-# example_script.py
-
-def greet(name):
-    return f"Hello, {name}!"
-
-if __name__ == "__main__":
-    name = "World"
-    print(greet(name))
