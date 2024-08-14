@@ -1,16 +1,21 @@
-## Hi there 👋
+# Project Name
 
-<!--
-**snarplex/snarplex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the **Project Name** repository!
 
-Here are some ideas to get you started:
+## Description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Briefly describe what your project does and its purpose.
+
+## Script Example
+
+Here's an example script for using **Project Name**:
+
+```python
+# example_script.py
+
+def greet(name):
+    return f"Hello, {name}!"
+
+if __name__ == "__main__":
+    name = "World"
+    print(greet(name))
