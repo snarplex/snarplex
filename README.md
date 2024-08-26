@@ -1,21 +1,10 @@
-Hello! :3
+hii!!💖
 
-u probably saw me on pt!. Please respect my availability status!! 
+⛔ busy:afk/doing stuff irl/making ponies/playing games/cant talk rn
+🌙 away: not afk, active
+please dont think am ignoring u am very busy. 
+whisper if u have questions, whisper also if u wanna compliment my fit. 
 
-- ⛔ **Busy**: Doing stuff IRL, can't chat right now. This includes making ponies, texting, and other activities.
-- 🌙 **Away**: online/active
+[w2i/c+h/dnc/dni when busy.]
 
-**!!IMPORTANT!!** Please click on my profile in pt to see if i am:
-- Drawing 🖌️
-- Making something
-- Eating 🍴
-- Watching videos
-- And more!
-
-Feel free to whisper if you have any questions!
-
-
-Thank you for checking me out!!:3💖
-
-
-tysm for the compliments/kind whispers sent to me!! 🫡🫵🫰
+byebye
