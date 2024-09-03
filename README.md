@@ -1,5 +1,6 @@
 hii!!
-mostly active but sometimes offtab. 
+mostly active but sometimes offtab.
+
 ⛔ busy:afk/doing stuff irl/making ponies/playing games/cant talk rn
 
 🌙 away: not afk, active
