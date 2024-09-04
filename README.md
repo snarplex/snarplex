@@ -18,8 +18,7 @@ pls check my pt profile if I am busy or smth
 
 •I love other animes like naruto demonslayer and your name (recommend watching!!) 
 
-•i don't ship frankyxrobin, coraxdoffy or coraxlaw, other ships maybe. 
+•i don't ship, coraxdoffy or coraxlaw, other ships maybe. 
 
 •if I start acting mean/weird please don't start judging it's just a part of me. but pls int
-
 
